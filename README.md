@@ -21,7 +21,8 @@ Focused on:
 ---
 
 ## 🌐 Live
-Coming soon...
+
+🔗 https://kobzan-portfolio.vercel.app
 
 ---
 
