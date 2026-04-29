@@ -4,7 +4,7 @@
     import { fadeUpVariant, staggerContainer } from "@/lib/motion";
 
     const facts = [
-      { label: "Location", value: "Ukraine 🇺🇦" },
+      { label: "Location", value: "Ukraine" },
       { label: "Focus", value: "Frontend" },
       { label: "Level", value: "Junior" },
       { label: "Availability", value: "Full-time" },
